@@ -1,12 +1,13 @@
 ![alt text](https://i.imgur.com/HIumoFO.png)
 
-#Alpha Vantage Tutorial
+# Alpha Vantage Tutorial
 
 Follow along with the tutorial videos:
+
 [Setting Up Dataframe](https://youtu.be/MCN33xZNoqk)
 [Finished Dashboard Overview](https://youtu.be/hyHzeSPXdyc)
 
-##How to Install
+## How to Install
 
 ``pip install -r requeriments.txt``
 
@@ -14,7 +15,8 @@ Add [API Key](https://www.alphavantage.co/support/#support) to api_key within th
 
 Run App & Enjoy
 
-##Useful Links
+# Useful Links
+
 [Alpha Vantage Docs](https://www.alphavantage.co/documentation/)
 
 [Alpha Vantage Github](https://github.com/RomelTorres/alpha_vantage)
@@ -25,7 +27,7 @@ Run App & Enjoy
 
 [Dash Docs](https://dash.plot.ly/)
 
-###Still Have Questions?
+### Still Have Questions?
 [cryptopotluck.com]()
 
 [cryptopotluck Discord]()
