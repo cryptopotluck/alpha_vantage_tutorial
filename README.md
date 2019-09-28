@@ -5,6 +5,7 @@
 Follow along with the tutorial videos:
 
 [Setting Up Dataframe](https://youtu.be/MCN33xZNoqk)
+
 [Finished Dashboard Overview](https://youtu.be/hyHzeSPXdyc)
 
 ## How to Install
