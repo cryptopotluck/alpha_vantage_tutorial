@@ -10,7 +10,7 @@ Follow along with the tutorial videos:
 
 ## How to Install
 
-``pip install -r requeriments.txt``
+``pip install -r requirements.txt``
 
 Add [API Key](https://www.alphavantage.co/support/#support) to api_key within the file
 
@@ -29,6 +29,6 @@ Run App & Enjoy
 [Dash Docs](https://dash.plot.ly/)
 
 ### Still Have Questions?
-[cryptopotluck.com]()
+[cryptopotluck.com](https://www.cryptopotluck.com)
 
-[cryptopotluck Discord]()
+[cryptopotluck Discord](https://discord.gg/rNc6xtP)
