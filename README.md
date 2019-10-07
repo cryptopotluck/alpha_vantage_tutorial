@@ -4,9 +4,13 @@
 
 Follow along with the tutorial videos:
 
-[Setting Up Dataframe](https://youtu.be/MCN33xZNoqk)
+[Setting Up Dataframe ep1](https://youtu.be/MCN33xZNoqk)
 
-[Finished Dashboard Overview](https://youtu.be/hyHzeSPXdyc)
+[Finished Dashboard Overview ep2](https://youtu.be/hyHzeSPXdyc)
+
+[Manipulating Financial Time Series Data Dash Plotly Datetime ep3
+](https://youtu.be/FoxlrOmen8c)
+
 
 ## How to Install
 
