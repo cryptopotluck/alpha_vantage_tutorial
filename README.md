@@ -1,15 +1,10 @@
-![alt text](https://i.imgur.com/HIumoFO.png)
+![alt text](https://i.udemycdn.com/course/480x270/2597712_9552_2.jpg)
 
 # Alpha Vantage Tutorial
 
 Follow along with the tutorial videos:
 
-[Setting Up Dataframe ep1](https://youtu.be/MCN33xZNoqk)
-
-[Finished Dashboard Overview ep2](https://youtu.be/hyHzeSPXdyc)
-
-[Manipulating Financial Time Series Data Dash Plotly Datetime ep3
-](https://youtu.be/FoxlrOmen8c)
+[Full Udemy Course](https://www.udemy.com/course/plotly-dash/?referralCode=16FC11D8981E0863E557)
 
 
 ## How to Install
