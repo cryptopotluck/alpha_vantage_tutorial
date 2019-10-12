@@ -1,7 +1,7 @@
 import pandas as pd
 from alpha_vantage.techindicators import  TechIndicators
 from alpha_vantage.timeseries import TimeSeries
-from key import api_key
+from _alpha_vantage.key import api_key
 import datetime
 
 stock = input('What stock do you want?')
