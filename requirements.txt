@@ -5,7 +5,7 @@ attrs==19.2.0
 autobahn==19.10.1
 Automat==0.7.0
 backcall==0.1.0
-bleach==3.1.0
+bleach==3.1.4
 certifi==2019.9.11
 cffi==1.12.3
 chardet==3.0.4
